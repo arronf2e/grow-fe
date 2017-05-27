@@ -26,11 +26,13 @@
 
 #### 6. [性能优化](https://github.com/arronf2e/grow-fe/blob/master/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
 
+#### 7. [设计与用户体验](https://github.com/arronf2e/grow-fe/blob/master/design.md)
 
-#### 7. [杂谈](https://github.com/arronf2e/grow-fe/blob/master/%E6%9D%82%E8%B0%88.md)
+
+#### 8. [杂谈](https://github.com/arronf2e/grow-fe/blob/master/%E6%9D%82%E8%B0%88.md)
 
 
-#### 8. [Q&A](https://github.com/arronf2e/grow-fe/blob/master/QA.md)
+#### 9. [Q&A](https://github.com/arronf2e/grow-fe/blob/master/QA.md)
 
 
 
