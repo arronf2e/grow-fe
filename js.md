@@ -6,6 +6,7 @@
 4. [深入理解JavaScript系列(作者：汤姆大叔)](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 5. [JavaScript深入系列、JavaScript专题系列、ES6系列、React系列(作者：冴羽)](https://github.com/mqyqingfeng/Blog)
 6. [You-Dont-Know-JS](https://github.com/JoeHetfield/You-Dont-Know-JS)
+7. [加深对 JavaScript This 的理解](https://juejin.im/post/596a28f6f265da6c360a2716)
 
 ##### Projects
 
