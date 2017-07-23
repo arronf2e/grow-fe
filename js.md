@@ -7,6 +7,7 @@
 5. [JavaScript深入系列、JavaScript专题系列、ES6系列、React系列(作者：冴羽)](https://github.com/mqyqingfeng/Blog)
 6. [You-Dont-Know-JS](https://github.com/JoeHetfield/You-Dont-Know-JS)
 7. [加深对 JavaScript This 的理解](https://juejin.im/post/596a28f6f265da6c360a2716)
+8. [JavaScript中的this](https://juejin.im/post/59748cbb6fb9a06bb21ae36d)
 
 ##### Projects
 
