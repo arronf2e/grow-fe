@@ -8,6 +8,7 @@
 6. [You-Dont-Know-JS](https://github.com/JoeHetfield/You-Dont-Know-JS)
 7. [加深对 JavaScript This 的理解](https://juejin.im/post/596a28f6f265da6c360a2716)
 8. [JavaScript中的this](https://juejin.im/post/59748cbb6fb9a06bb21ae36d)
+9. [合格前端系列第六弹-从指向看JavaScript](https://zhuanlan.zhihu.com/p/28058983)
 
 ##### Projects
 
