@@ -9,6 +9,7 @@
 7. [基于 Jest + Enzyme 的 React 单元测试](https://github.com/superman66/react-test-demo)
 8. [A CARTOON INTRO TO REDUX](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)
 9. [Your Timeline for Learning React - 為你定制的 React 學習路線 ](https://github.com/aleen42/PersonalWiki/blob/master/translation/your_timeline_for_learning_react/your_timeline_for_learning_react.md)
+10. [关于React的一些实践思考与总结](http://cnt1992.xyz/2016/08/06/summary-of-react-base-on-practice/)
 
 ##### Projects
 
