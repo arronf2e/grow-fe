@@ -12,6 +12,7 @@
 10. [深入浅出javascript对象原型](http://www.jianshu.com/p/aa2f885ba871)
 11. [看这一篇就够了！浅谈ES6的Promise对象](http://www.jianshu.com/p/c98eb98bd00c)
 12. [event delegation -- 事件委托](http://www.jianshu.com/p/2c68c8ceef1c)
+13. [写给新人的call、apply、bind](https://aotu.io/notes/2016/09/02/Different-Binding/?o2src=juejin&o2layout=compat)
 
 ##### Projects
 
