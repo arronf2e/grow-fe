@@ -32,8 +32,13 @@
 
 #### 9. [杂谈](https://github.com/arronf2e/grow-fe/blob/master/%E6%9D%82%E8%B0%88.md)
 
+#### 10. [react-native](https://github.com/arronf2e/grow-fe/blob/master/react-native.md)
 
-#### 10. [Q&A](https://github.com/arronf2e/grow-fe/blob/master/QA.md)
+#### 11. [瞎折腾](https://github.com/arronf2e/grow-fe/blob/master/interesting.md)
+
+#### 12. [免费开发资源](https://github.com/arronf2e/grow-fe/blob/master/free-resources.md)
+
+#### 13. [Q&A](https://github.com/arronf2e/grow-fe/blob/master/QA.md)
 
 
 
