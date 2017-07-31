@@ -6,6 +6,7 @@
 4. [CSS技能汇总，研究及实践](http://www.cnblogs.com/pssp/p/5900855.html)
 6. [详解 CSS 七种三栏布局技巧](https://zhuanlan.zhihu.com/p/25070186?refer=learncoding)
 7. [CSS 专业技巧 ](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+8. [前端常见布局方式实现](http://www.jianshu.com/p/3cadd57385f9)
 
 ##### Projects
 
