@@ -8,6 +8,7 @@
 6. [教你React-Native撸android原生百度定位SDK服务[跨平台模块自定义]](http://www.jianshu.com/p/670bbad853f6)
 7. [基于 Jest + Enzyme 的 React 单元测试](https://github.com/superman66/react-test-demo)
 8. [A CARTOON INTRO TO REDUX](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)
+9. [Your Timeline for Learning React - 為你定制的 React 學習路線 ](https://github.com/aleen42/PersonalWiki/blob/master/translation/your_timeline_for_learning_react/your_timeline_for_learning_react.md)
 
 ##### Projects
 
