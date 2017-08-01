@@ -11,6 +11,7 @@
 9. [Your Timeline for Learning React - 為你定制的 React 學習路線 ](https://github.com/aleen42/PersonalWiki/blob/master/translation/your_timeline_for_learning_react/your_timeline_for_learning_react.md)
 10. [关于React的一些实践思考与总结](http://cnt1992.xyz/2016/08/06/summary-of-react-base-on-practice/)
 11. [一个 react + redux 的完整项目 和 个人总结](https://github.com/bailicangdu/react-pxq)
+12. [State设计，Redux 开发第一步](http://www.jianshu.com/p/ba8654cb77b6)
 
 ##### Projects
 
