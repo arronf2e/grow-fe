@@ -13,6 +13,7 @@
 11. [一个 react + redux 的完整项目 和 个人总结](https://github.com/bailicangdu/react-pxq)
 12. [State设计，Redux 开发第一步](http://www.jianshu.com/p/ba8654cb77b6)
 13. [[译] 在大型应用中使用 Redux 的五个技巧](https://juejin.im/post/5980514151882537b41c4c0d)
+14. [React 组件性能优化](https://www.manster.me/?p=656)
 
 ##### Projects
 
