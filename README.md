@@ -30,7 +30,7 @@
 #### 8. [设计与用户体验](https://github.com/arronf2e/grow-fe/blob/master/design.md)
 
 
-#### 9. [杂谈](https://github.com/arronf2e/grow-fe/blob/master/%E6%9D%82%E8%B0%88.md)
+#### 9. [杂谈](https://github.com/arronf2e/grow-fe/blob/master/free-chatting.md)
 
 #### 10. [react-native](https://github.com/arronf2e/grow-fe/blob/master/react-native.md)
 
