@@ -14,6 +14,8 @@
 12. [State设计，Redux 开发第一步](http://www.jianshu.com/p/ba8654cb77b6)
 13. [[译] 在大型应用中使用 Redux 的五个技巧](https://juejin.im/post/5980514151882537b41c4c0d)
 14. [React 组件性能优化](https://www.manster.me/?p=656)
+15. [关于Redux的一些总结(一)：Action & 中间件 & 异步](https://github.com/dwqs/blog/issues/35)
+16. [关于Redux的一些总结(二)：组件拆分 & connect](https://github.com/dwqs/blog/issues/38)
 
 ##### Projects
 
