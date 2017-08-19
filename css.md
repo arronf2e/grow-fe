@@ -8,6 +8,7 @@
 7. [CSS 专业技巧 ](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 8. [前端常见布局方式实现](http://www.jianshu.com/p/3cadd57385f9)
 9. [学习CSS布局](http://zh.learnlayout.com/frameworks.html)
+10. [布局太死板？6个小技巧让你的网页设计活力十足！](http://www.uisdc.com/creative-layout-in-web-design)
 
 ##### Projects
 
