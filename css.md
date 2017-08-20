@@ -9,6 +9,7 @@
 8. [前端常见布局方式实现](http://www.jianshu.com/p/3cadd57385f9)
 9. [学习CSS布局](http://zh.learnlayout.com/frameworks.html)
 10. [布局太死板？6个小技巧让你的网页设计活力十足！](http://www.uisdc.com/creative-layout-in-web-design)
+11. [Web fonts: when you need them, when you don’t](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae)
 
 ##### Projects
 
