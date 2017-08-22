@@ -5,6 +5,7 @@
 3. [Web图片资源的加载与渲染时机](https://segmentfault.com/a/1190000010032501)
 4. [设计无限滚动下拉加载，实践高性能页面真谛](https://juejin.im/post/58b545f0b123db005734634e)
 5. [性能优化知多少](http://www.cnblogs.com/sheng-jie/p/7109385.html#autoid-4-3-0)
+6. [小胡子哥性能专栏](https://github.com/barretlee/performance-column/issues)
 
 ##### Projects
 
