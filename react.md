@@ -16,6 +16,7 @@
 14. [React 组件性能优化](https://www.manster.me/?p=656)
 15. [关于Redux的一些总结(一)：Action & 中间件 & 异步](https://github.com/dwqs/blog/issues/35)
 16. [关于Redux的一些总结(二)：组件拆分 & connect](https://github.com/dwqs/blog/issues/38)
+17. [[React技术内幕] setState的秘密](https://juejin.im/post/599b8f066fb9a0247637d61b)
 
 ##### Projects
 
