@@ -21,6 +21,7 @@
 19. [原生JS实现最简单的图片懒加载](http://axuebin.com/blog/2017/08/19/javascript-lazyload/)
 20. [白话原型和原型链](https://juejin.im/post/599d69fc6fb9a0248f4a7b31)
 21. [通过hash实现前端路由](http://www.cnblogs.com/gxp69/p/7447789.html)
+22. [前端最佳实践（一）——DOM操作](https://juejin.im/post/59cf174c6fb9a00a4c273197)
 
 ##### Projects
 
