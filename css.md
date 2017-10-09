@@ -13,6 +13,7 @@
 12. [CSS 常见布局方式](https://juejin.im/post/599970f4518825243a78b9d5)
 13. [【教程】用纯CSS实现跳跳球动画](http://www.zcfy.cc/article/tutorial-make-a-bouncing-ball-entirely-with-css-codeburst-4056.html?t=new)
 14. [你可能不知道的 border-radius](http://www.vince.studio/2017/08/30/%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-border-radius/)
+15. [回流与重绘：CSS性能让JavaScript变慢？](http://www.zhangxinxu.com/wordpress/2010/01/%E5%9B%9E%E6%B5%81%E4%B8%8E%E9%87%8D%E7%BB%98%EF%BC%9Acss%E6%80%A7%E8%83%BD%E8%AE%A9javascript%E5%8F%98%E6%85%A2%EF%BC%9F/)
 
 ##### Projects
 
