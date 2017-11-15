@@ -24,6 +24,7 @@
 22. [前端最佳实践（一）——DOM操作](https://juejin.im/post/59cf174c6fb9a00a4c273197)
 23. [把cookie聊清楚](https://juejin.im/post/59d1f59bf265da06700b0934)
 24. [Tasks, microtasks, queues and schedules](http://ftandy.com/2015/08/23/2015-08-23-tasks-microtasks-queues-and-schedules/)
+25. [JavaScript ES 2017: Learn Async/Await by Example](https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65)
 
 ##### Projects
 
