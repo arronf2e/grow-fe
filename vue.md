@@ -5,3 +5,4 @@
 #### 2. [JavaScript ---> vue源码进阶学习路线](https://github.com/monkeyWangs/vueStudy)
 #### 3. [我的 Vue.js 之旅](https://github.com/f2e-journey/xueqianban/issues/5)
 #### 4. [Vue2原理浅谈](http://imhjm.com/article/59b902107dd03248a2e8d584)
+#### 5. [大白话Vue源码系列](https://juejin.im/post/5a4b3cbb6fb9a045211f131d)
