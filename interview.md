@@ -4,3 +4,4 @@
 2. [前端基础面试题(JS部分)](https://zhuanlan.zhihu.com/p/28428367)
 3. [面试](https://github.com/huruji/FE-Interview)
 4. [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
+5. [前端面试那些事](https://juejin.im/post/5a59db5a518825732d7f8ce5)
