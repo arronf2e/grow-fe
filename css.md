@@ -16,6 +16,7 @@
 15. [回流与重绘：CSS性能让JavaScript变慢？](http://www.zhangxinxu.com/wordpress/2010/01/%E5%9B%9E%E6%B5%81%E4%B8%8E%E9%87%8D%E7%BB%98%EF%BC%9Acss%E6%80%A7%E8%83%BD%E8%AE%A9javascript%E5%8F%98%E6%85%A2%EF%BC%9F/)
 16. [chokcoco博客](http://www.cnblogs.com/coco1s/p/6992177.html)
 17. [彻底搞定vertical-align垂直居中不起作用疑难杂症](https://juejin.im/post/5a7d6b886fb9a06349129463)
+18. [CSS设置居中的方案总结-超全](https://juejin.im/post/5a7a9a545188257a892998ef)
 
 ##### Projects
 
