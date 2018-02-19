@@ -9,3 +9,4 @@
 #### 6. [深入浅出 - vue之State](https://github.com/berwin/Blog/issues/13)
 #### 7. [你不知道的Vue响应式原理](https://juejin.im/post/5a734b6cf265da4e70719386#heading-6)
 #### 8. [深入理解Vue响应式原理](http://jungahuang.com/2018/02/07/About-responsive-of-Vue/#more)
+#### 9. [你不知道的Vuejs](https://github.com/yugasun/You-Dont-Know-Vuejs)
