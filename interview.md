@@ -5,3 +5,4 @@
 3. [面试](https://github.com/huruji/FE-Interview)
 4. [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 5. [前端面试那些事](https://juejin.im/post/5a59db5a518825732d7f8ce5)
+6. [面试的信心来源于过硬的基础](https://segmentfault.com/a/1190000013331105)
