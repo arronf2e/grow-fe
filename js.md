@@ -25,6 +25,7 @@
 23. [把cookie聊清楚](https://juejin.im/post/59d1f59bf265da06700b0934)
 24. [Tasks, microtasks, queues and schedules](http://ftandy.com/2015/08/23/2015-08-23-tasks-microtasks-queues-and-schedules/)
 25. [JavaScript ES 2017: Learn Async/Await by Example](https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65)
+26. [前端开发基础 - JavaScript](https://juejin.im/entry/56c69793efa63100544477af)
 
 ##### Projects
 
